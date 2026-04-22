@@ -1,5 +1,5 @@
 public class BubbleSort {
-    // Constructor
+    // Constructor no tiene parametrso
     public BubbleSort() {
         System.out.println("Se creo la clase en el constructor");
     }
